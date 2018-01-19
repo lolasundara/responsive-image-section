@@ -57,6 +57,22 @@ figure {
 p {
   margin-right: 1.5em;
 }
+}
+
+@media only screen and (min-width: 38em) {
+
+  html {
+    font-size: 110%;
+    line-height: 1.4;
+  }
+
+  h2 {
+    display: inline-block;
+    width: 47%;
+    margin-top: 1.35em;
+    margin-left: .75em;
+    margin-bottom: .9em;
+  }
 
   p {
     width: 46%;
