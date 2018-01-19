@@ -70,6 +70,12 @@ p {
     margin-top: 0;
   }
 
+  nav {
+    width: 47%;
+    margin-right: 0;
+    margin-left: .5em;
+  }
+
   img {
     display: inline-block;
     width: 47%;
