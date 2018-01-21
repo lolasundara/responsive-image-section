@@ -138,5 +138,18 @@ p {
   h2 {
     margin-left: 7em;
     margin-top: 3em;
+    margin-bottom: 1em;
+  }
+
+  p {
+    margin-left: 10.5em;
+  }
+
+  .btn {
+    margin-left: 10em;
+  }
+
+  img {
+    max-width: 50%;
   }
 }
