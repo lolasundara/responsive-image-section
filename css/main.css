@@ -134,4 +134,9 @@ p {
   html {
     font-size: 130%;
   }
+
+  h2 {
+    margin-left: 7em;
+    margin-top: 3em;
+  }
 }
