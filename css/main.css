@@ -126,25 +126,5 @@ p {
 
   img {
     vertical-align: middle;
-    margin-bottom: 13.5em;
-    margin-left: 0;
-    margin-right: .5em;
-  }
-
-  p {
-    margin-right: 1.75em;
-    margin-left: 1.3em;
-  }
-
-  .img-flex {
-    width: 49.35%;
-  }
-
-  .btn {
-    margin-top: 1.5em;
-    margin-left: .8em;
-    padding-right: .56em;
-    padding-bottom: .5em;
-    font-size: 1.0125rem;
   }
 }
